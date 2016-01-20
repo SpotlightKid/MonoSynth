@@ -1,0 +1,13 @@
+*.a
+*.d
+*.o
+
+*.exe
+*.dll
+*.dylib
+*.so
+*.zip
+
+bin/*-dssi/
+bin/*.lv2/
+bin/MonoSynth
